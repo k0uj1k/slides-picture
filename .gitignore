@@ -1,0 +1,47 @@
+# Python virtual environment
+.venv/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VS Code settings and workspace files
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project output directories
+input
+output/
+runs/
+
+# YOLO weights and checkpoints
+*.pt
+*.pth
+
+# Temporary or generated images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+.env*
+.agy*
+
+*.zip
